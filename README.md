@@ -26,7 +26,7 @@ React, TypeScript, TailwindCSS, Shadcn (Radix), TanStack (Start, Router, Query, 
 TanStack Start (APIs), PostgreSQL, Redis (Caching), Qstash (Message Queue)
 
 🌐 **Hosting & DevOps:**
-Vercel, Cloudflare, Linux
+Vercel, Linux
 
 👥 Collaboration:
 Git & GitHub
